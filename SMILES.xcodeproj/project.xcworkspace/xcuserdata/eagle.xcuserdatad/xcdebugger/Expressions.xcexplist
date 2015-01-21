@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[SMContactListPage fetchMyRoomAndGroup]:SMContactListPage.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SMContactListPage SMXMPPHandler:didFinishExecute:withInfo:]:SMContactListPage.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.subscription">
+            </PersistentString>
+            <PersistentString
+               value = "GroupTypeFriends">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SMXMPPHandler fetchvCardTemoForJID:]:SMXMPPHandler.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SMChatPage tableView:cellForRowAtIndexPath:]:SMChatPage.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SMChatPage retryMessage:]:SMChatPage.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
